@@ -9,6 +9,8 @@ If it is a machine upgrade, include the NBT tags:
 If it is for a solar panel or wind generator:
 `gen` as a non-negative number
 
+Do not copy the example code; it is incomplete.
+
 portugues brasil(Brazilian Portuguese):
 depois de colocar a tag correta: 
 sempre defini a tag 'load' para 'true' no item
@@ -18,3 +20,5 @@ se for upgrade para maquina coloque as nbt
 'multicore' como número não negativo
 se for para solar solar ou gerador a venta:
 'gen' como  número não negativo
+
+não copie os codigos de exemplo estão incompletos
