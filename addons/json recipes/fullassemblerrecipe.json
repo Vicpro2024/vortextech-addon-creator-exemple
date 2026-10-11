@@ -1,0 +1,15 @@
+{
+  "type": "vt3:assemblerrecipetype",
+  "ingredients": [
+    "minecraft:glass",
+    "minecraft:coal",
+    "minecraft:grass",
+    "minecraft:iron_ore"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:stone",
+      "count": 1
+    }
+  ]
+}
