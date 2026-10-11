@@ -1,0 +1,10 @@
+	{
+			final String _tagName = "gen";
+			final double _tagValue = 400;
+			CustomData.update(DataComponents.CUSTOM_DATA, itemstack, tag -> tag.putDouble(_tagName, _tagValue));
+		}
+		{
+			final String _tagName = "load";
+			final boolean _tagValue = true;
+			CustomData.update(DataComponents.CUSTOM_DATA, itemstack, tag -> tag.putBoolean(_tagName, _tagValue));
+		}
