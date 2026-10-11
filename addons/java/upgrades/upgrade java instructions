@@ -1,0 +1,20 @@
+English:
+
+After setting the correct tag:
+Always set the 'load' tag to 'true' for the item.
+If it is a machine upgrade, include the NBT tags:
+`speed_add` as a non-negative number
+`energy_cost` as a number
+`multicore` as a non-negative number
+If it is for a solar panel or wind generator:
+`gen` as a non-negative number
+
+portugues brasil(Brazilian Portuguese):
+depois de colocar a tag correta: 
+sempre defini a tag 'load' para 'true' no item
+se for upgrade para maquina coloque as nbt
+'speed_add' como número não negativo
+'energy_cost' como número 
+'multicore' como número não negativo
+se for para solar solar ou gerador a venta:
+'gen' como  número não negativo
