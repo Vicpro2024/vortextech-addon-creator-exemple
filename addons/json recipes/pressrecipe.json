@@ -1,0 +1,12 @@
+{
+  "type": "vt3:pressrecipetype",
+  "ingredients": [
+    "minecraft:dirt"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:stick",
+      "count": 1
+    }
+  ]
+}
