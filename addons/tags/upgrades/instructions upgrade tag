@@ -1,0 +1,19 @@
+English:
+Create a folder named `vt3`. Inside it, create a `item` folder, Inside it, create a `tags` folder, then an `upgrade` folder.  The upgrade tags are located in this folder.
+local: vt3/tags/upgrade
+Create this folder inside your mod's resources/data folder.
+
+File names:
+for machines, the name is machine.json
+for the wind generator, it is wind_gen.json
+for the solar panel, it is solar_gen.json
+
+português brasil(Brazilian Portuguese):
+crie uma pasta chamada vt3 nela crie a pasta 'tags',depois nela 'items', dentro um pasta 'upgrade', As tags de upgrades serão localizadas nesta pasta.local:
+vt3/tags/upgrade
+crie essa pasta dentro da pasta de resources/data do seu mod
+
+nome dos arquivos:
+para maquinas o nome é machine.json
+para o gerador a vento é wind_gen.json
+para o painel solar é solar gen.json
