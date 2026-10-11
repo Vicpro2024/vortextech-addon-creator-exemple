@@ -8,6 +8,8 @@ for machines, the name is machine.json
 for the wind generator, it is wind_gen.json
 for the solar panel, it is solar_gen.json
 
+Remember to always set `replace` to `false` for add-ons.
+
 português brasil(Brazilian Portuguese):
 crie uma pasta chamada vt3 nela crie a pasta 'tags',depois nela 'items', dentro um pasta 'upgrade', As tags de upgrades serão localizadas nesta pasta.local:
 vt3/tags/upgrade
@@ -17,3 +19,5 @@ nome dos arquivos:
 para maquinas o nome é machine.json
 para o gerador a vento é wind_gen.json
 para o painel solar é solar gen.json
+
+lembre se 'replace' sempre definir para 'falso' para addons
