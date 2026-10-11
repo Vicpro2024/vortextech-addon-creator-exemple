@@ -1,0 +1,13 @@
+{
+  "type": "vt3:mixerrecipetype",
+  "ingredients": [
+    "minecraft:coal",
+    "minecraft:grass"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:dirt",
+      "count": 1
+    }
+  ]
+}
