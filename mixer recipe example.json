@@ -1,7 +1,7 @@
 {
   "type": "vt3:mixerrecipetype",
   "ingredients": [
-    "minecraft;dirt",
+    "minecraft:dirt",
     "minecraft:iron_ingot"
   ],
   "outputs": [
