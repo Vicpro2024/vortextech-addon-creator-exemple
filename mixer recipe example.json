@@ -1,0 +1,13 @@
+{
+  "type": "vt3:mixerrecipetype",
+  "ingredients": [
+    "minecraft;dirt",
+    "minecraft:iron_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:stone",
+      "count": 1
+    }
+  ]
+}
