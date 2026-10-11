@@ -1,0 +1,15 @@
+{
+  "type": "vt3:assemblerrecipetype",
+  "ingredients": [
+    "minecraft:grass",
+    "minecraft:stone",
+    "minecraft:gold_ore",
+    "#vt3:jei_empty_tag"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:dirt",
+      "count": 2
+    }
+  ]
+}
