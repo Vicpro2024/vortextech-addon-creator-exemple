@@ -12,4 +12,4 @@ uma versão com licença mit de receitas e exemplos em .json para ajudar a criar
 
 o mod em si tem licença de todos os direitos reservados então não pode copiar diretamente o codigo mas os exemplo nesse repositorio são da licença mit  podem ser copiados desde tenha creditos no seu addon
 
-criança de addon, datapacks e modificar externamente (kubejs) é permitdos mesmo com a licença desde não contenha partes do,codigo texturas modelo ou qualuqe outra coisa do mod original 
+criança de addon, datapacks e modificar externamente (kubejs) é permitdos mesmo com a licença desde não contenha partes do,codigo, texturas, modelos ou qualquer outra coisa do mod original 
