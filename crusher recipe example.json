@@ -1,0 +1,12 @@
+{
+  "type": "vt3:crusherrecipetype",
+  "ingredients": [
+    "minecraft:coal"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:dirt",
+      "count": 2
+    }
+  ]
+}
